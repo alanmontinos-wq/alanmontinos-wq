@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Zuri Gisele Ruiz Regino 👋
 
-<!--
-**alanmontinos-wq/alanmontinos-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm interested in **technology, Linux, and computer systems**, and I enjoy learning and sharing what I learn with others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+* 🎓 Student interested in technology and computing
+* 🐧 Learning and working with Linux and Debian
+* 💻 Interested in virtual machines and system administration
+* 📚 Creating educational content for beginners
+
+## 🐧 My Debian Linux Course
+
+I created a beginner-friendly course designed to teach **how to install and use Debian Linux from scratch using a virtual machine**.
+
+In the course, you'll learn:
+
+* How to install Debian Linux
+* How to configure a virtual machine
+* Basic Linux commands
+* How to use the terminal
+* Basic system configuration
+* How to get started with Debian
+
+The course is designed for **complete beginners**, so no previous Linux experience is required.
+
+## 🚀 What I'm Learning
+
+I'm continuously learning about Linux, operating systems, virtualization, and computer technology.
+
+---
+
+Thanks for visiting my profile! 😊
