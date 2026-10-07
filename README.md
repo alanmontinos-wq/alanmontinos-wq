@@ -30,6 +30,15 @@ The course is designed for **complete beginners**, so no previous Linux experien
 
 I'm continuously learning about Linux, operating systems, virtualization, and computer technology.
 
+## 📩 Contact
+
+Interested in the course or have any questions?
+
+**Email:** [loramods80@gmail.com](mailto:loramods80@gmail.com)
+
+Feel free to reach out. I'd be happy to hear from you!
+
 ---
 
 Thanks for visiting my profile! 😊
+
